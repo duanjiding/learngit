@@ -7,4 +7,6 @@ GIt tracks changes
 git tracks changes of file. no note.
 my stupid boss like use SVN.
 creat a new branch.
+test git pull.
+test branch merge again
 
