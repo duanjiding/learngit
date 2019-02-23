@@ -5,3 +5,5 @@ git is free distributed under GPL
 to verify status
 GIt tracks changes
 git tracks changes of file. no note.
+my stupid boss like use SVN.
+
