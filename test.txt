@@ -9,5 +9,6 @@ my stupid boss like use SVN.
 creat a new branch.
 test git pull.
 test branch merge again
-Creating a new branch is fast & new.
+test merge graph on dev branch
+Creating a new branch is fast and simple.
 
