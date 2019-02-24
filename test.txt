@@ -12,4 +12,5 @@ test branch merge again
 test merge graph on dev branch
 Creating a new branch is fast and simple.
 do something different
+git push master.
 
